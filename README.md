@@ -2,7 +2,7 @@
 
 https://dangor220.github.io/mini-game/
 
-Технологии:
+Technologies:
 
 * HTML
 * CSS
