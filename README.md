@@ -2,6 +2,6 @@
 
 Технологии:
 
-HTML
-CSS
-JS
+* HTML
+* CSS
+* JS
